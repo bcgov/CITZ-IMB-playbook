@@ -71,7 +71,7 @@ We must begin digital projects by developing solutions for the people who will u
 
 [Interaction-design.org](https://www.interaction-design.org/literature/article/14-barriers-to-ideation-and-how-to-overcome-them) identifies strategies towards reducing potential barriers of innovation.
 
-The [BC Government Service Design Playbook](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service) provides resources, methods and templates to guide new service development. [Ideao.org](https://www.designkit.org/methods) and [Sourcemaking.com](https://sourcemaking.com/design_patterns) both provide additional toolkits and sources of useful information 
+The [BC Government Service Design Playbook](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service) provides resources, methods and templates to guide new service development. [Ideo.org](https://www.designkit.org/methods) and [Sourcemaking.com](https://sourcemaking.com/design_patterns) both provide additional toolkits and sources of useful information 
 
 The Canadian and US federal governments detail a series of digital plays in their playbooks. In The [Government of Canada Digital Playbook ‘design with users’](https://canada-ca.github.io/digital-playbook-guide-numerique/en/1-design-with-users.html) section and the [US Digital Service](https://playbook.cio.gov/) plays 1,2 and 3 provide useful questions to ask during ideation.
 
