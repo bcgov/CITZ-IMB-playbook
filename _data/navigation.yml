@@ -30,7 +30,7 @@ primary:
     href: /play7
   - text: Play 8
     href: /play8
-
+# this is the top right nav
 secondary:
   - text: Home
     href: /
@@ -44,7 +44,7 @@ secondary:
   - text: PDF Version
     href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
     external: true
-
+# this is the main side nav
 docs:
   - text: Modern Application Playbook
     href: /
@@ -62,6 +62,8 @@ docs:
     href: /play6
   - text: Play 7
     href: /play7
+  - text: Play 8
+    href: /play8
   - text: Principles
     href: /principles
   - text: Patterns
@@ -96,6 +98,10 @@ play6:
 play7:
   - text: Play 7
     href: /play7
+
+play8:
+  - text: Play 8
+    href: /play8
 
 footer:
   - text: Home
