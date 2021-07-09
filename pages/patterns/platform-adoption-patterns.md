@@ -93,9 +93,6 @@ The Dynamics platform can been applied in a diverse set of citizen and service f
 IMB can work with project teams to review requirements, participate on technical teams, and assist teams through the approval and project inception process.
 -	MS Dynamics initiatives can be started by completing the [IMB Project Submission form](https://citz.sp.gov.bc.ca/sites/CSD/IMB/PBS/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBF193C7D-E566-494C-A3CD-0795935672CF%7d&file=Project%20submission%20form_updated2018.xlsx&action=default){:target="_blank"}
 
-### Additional Guidance:
-- [Customer Relationship Management](https://bcgov.github.io/HADF-Overview/ModernizationPlaybook/Business%20Applications/CRM/CRM-Index.html){:target="_blank"}
-
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
